@@ -1,1 +1,10 @@
 .DS_Store
+
+# Quarto render outputs / artifacts
+/.quarto/
+template.html
+template.pdf
+template.tex
+template_files/
+/aft.cls
+/te.bst
