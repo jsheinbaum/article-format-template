@@ -1,0 +1,4 @@
+{
+  "name": "Article Format Template (Quarto)",
+  "install": "bash .cursor/install.sh"
+}
