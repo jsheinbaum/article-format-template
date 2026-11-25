@@ -3,7 +3,6 @@ title: "Demo aft format to use as template"
 format:
   aft-pdf:
     keep-tex: true  
-  aft-html: default
 author:
   - name: John Doe
     affiliations:
